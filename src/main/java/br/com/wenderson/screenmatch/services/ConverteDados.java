@@ -1,4 +1,4 @@
-package br.com.alura.screenmatch.services;
+package br.com.wenderson.screenmatch.services;
 
 import tools.jackson.databind.ObjectMapper;
 

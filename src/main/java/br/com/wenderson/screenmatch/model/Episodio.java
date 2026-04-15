@@ -1,4 +1,4 @@
-package br.com.alura.screenmatch.model;
+package br.com.wenderson.screenmatch.model;
 
 
 import java.time.LocalDate;
